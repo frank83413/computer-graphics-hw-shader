@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\users\frank\desktop\glsl_hw3\hw3\main.cpp(5): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\frank\desktop\glsl_hw3\hw3\main.cpp(61): warning C4018: '<': signed/unsigned 不相符
+c:\users\frank\desktop\glsl_hw3\hw3\main.cpp(166): warning C4551: 函式呼叫遺漏引數清單
+c:\users\frank\desktop\glsl_hw3\hw3\main.cpp(181): warning C4551: 函式呼叫遺漏引數清單
+c:\users\frank\desktop\glsl_hw3\hw3\main.cpp(145): warning C4101: 'EView': 未參考的區域變數
+  hw3.vcxproj -> C:\Users\Frank\Desktop\GLSL_hw3\Debug\Hw3.exe
+  hw3.vcxproj -> C:\Users\Frank\Desktop\GLSL_hw3\Debug\Hw3.pdb (Partial PDB)

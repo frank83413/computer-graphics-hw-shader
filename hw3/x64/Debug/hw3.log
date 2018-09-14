@@ -1,0 +1,1 @@
+﻿x64\Debug\glm.obj : fatal error LNK1112: 模組電腦類型 'x64' 與目標電腦類型 'X86' 衝突
